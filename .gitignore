@@ -1,0 +1,4 @@
+res/*
+*.vcxproj
+*.vcxproj.filters
+x64/*
